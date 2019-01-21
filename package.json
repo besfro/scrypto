@@ -1,35 +1,10 @@
 {
-  "_from": "scrypto",
-  "_id": "scrypto@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-Gie1RLnSc6NYqm6LMEOszplmAMAeb5t/acqSjLPfYk8FSDHvpIJZwMBCJZ2fmvMNu/HInVsZ7DW1BW/fdGL9Mg==",
-  "_location": "/scrypto",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "scrypto",
-    "name": "scrypto",
-    "escapedName": "scrypto",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/scrypto/-/scrypto-1.0.0.tgz",
-  "_shasum": "9f64ffb63bb372aaa8de0aa3d988e77059b7a273",
-  "_spec": "scrypto",
-  "_where": "F:\\Users\\Lengc\\Documents\\work\\trian\\npm",
+  "name": "scrypto",
+  "description": "Use to encrypt a String or Buffer",
   "author": {
     "name": "clc",
     "email": "lengchars@gmail.com"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Use to encrypt a String or Buffer",
   "engines": {
     "node": ">=6.4.0"
   },
@@ -42,7 +17,6 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "scrypto",
   "repositroy": {
     "type": "git",
     "url": "git+https://github.com/besfro/scrypto.git"
