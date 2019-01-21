@@ -19,7 +19,7 @@
   "main": "index.js",
   "repositroy": {
     "type": "git",
-    "url": "git+https://github.com/besfro/scrypto.git"
+    "url": "https://github.com/besfro/scrypto.git"
   },
   "scripts": {
     "test": "node test.js"
