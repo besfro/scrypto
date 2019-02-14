@@ -17,12 +17,12 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repositroy": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/besfro/scrypto.git"
   },
   "scripts": {
     "test": "node test.js"
   },
-  "version": "1.0.0"
+  "version": "1.0.2"
 }

@@ -34,6 +34,3 @@ crypt.decrypt(encrypt)
 Type: `Buffer` `string`
 
 
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
